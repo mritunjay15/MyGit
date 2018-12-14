@@ -1,12 +1,12 @@
 ****<<<<<Welcome to GitHub>>>>>>**********
 
 
-Change1 is made : "welcome to spiritual world"
+ 1 >> Change1 is made : "welcome to spiritual world"
 
-change2 is made: "Krishna loves me"
+ 2 >> change2 is made: "Krishna loves me"
 
 
-change -> 3 is made: "in master branch"
-change -> 4 is made in master
+ 3 >> change -> 3 is made: "in master branch"
+ 4 >> change -> 4 is made in master
 
-vxdfgdfd
+
