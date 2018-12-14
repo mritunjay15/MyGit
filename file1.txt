@@ -5,4 +5,5 @@ Change1 is made : "welcome to spiritual world"
 
 change2 is made: "Krishna loves me"
 
-change3 is made: "in master branch"
+
+change -> 3 is made: "in master branch"
